@@ -1,1 +1,1 @@
-remove and placing in cache
+remove and placing in cache that is Working directory
